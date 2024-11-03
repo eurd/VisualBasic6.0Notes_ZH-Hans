@@ -1,8 +1,8 @@
 # Visual Basic 6.0版本 中文笔记
 ## 提示
 以下均使用VB6.0程序,不在介绍详细控件使用方式
-Windows可以使用 Ctrl+F 来查找内容
-macOS使用 ⌘ + F 
+Windows可以使用 ```Ctrl+F``` 来查找内容
+macOS使用 ```⌘ + F ```
 <br>
 <br>
 
